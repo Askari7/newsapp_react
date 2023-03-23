@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "'Reputations at stake as cricket awaits judgement'",
+      "description": "One of the most divisive and damaging episodes English cricket has seen approaches a conclusion, but judgement will not bring closure, says Dan Roan.",
+      "url": "http://www.bbc.co.uk/sport/cricket/64886870",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12825/production/_128831857_bbc-sport-.png",
+      "publishedAt": "2023-03-08T10:52:17.6186504Z",
+      "content": "Azeem Rafiq arrives at the hearing on Tuesday\r\nNever before has a judgement of the Cricket Discipline Commission carried such significance - as one of the most divisive and damaging episodes the Engl… [+6419 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "New women's cricket league in India heralded as 'game-changer' | CBC News",
+      "description": "India has a brand-new professional women's cricket league, and it's generating a lot of excitement in the country and among analysts, with many calling it a game-changer for women's sports.",
+      "url": "http://www.cbc.ca/news/world/new-women-s-cricket-league-in-india-heralded-as-game-changer-1.6770629",
+      "urlToImage": "https://i.cbc.ca/1.6770738.1678215792!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/fans-womens-cricket.JPG",
+      "publishedAt": "2023-03-08T09:07:31.4463108Z",
+      "content": "The bat cracked sharply for the first hit of India's inaugural women's cricket league, and the crowd gathered at Mumbai's DY Patil stadium let out a string of whoops and cheers.\r\nUber fan Ria Raichau… [+5830 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
